@@ -1,0 +1,17 @@
+{
+    "name": "office/git",
+    "autoload": {
+        "psr-4": {
+            "Office\\Git\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "text"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "sonata-project/google-authenticator": "3.x-dev"
+    }
+}
